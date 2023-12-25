@@ -4,11 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-<<<<<<< HEAD
 This project is a starting point for a Flutter application. Test 123
-=======
-This project is a starting point for a Flutter application. Test456
->>>>>>> fb461a2f26e1837cd1ac04ba9ea43e15bd3b18ec
 
 A few resources to get you started if this is your first Flutter project:
 
